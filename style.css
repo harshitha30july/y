@@ -1,0 +1,36 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+#back_aqua
+{
+    float: right;
+    font-size: larger;
+}
+
+#back_fri
+{
+    float: right;
+    font-size: larger;
+}
+
+#back_ov
+{
+    float: right;
+    font-size: larger;
+}
